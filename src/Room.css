@@ -1,0 +1,26 @@
+
+
+.room {
+    height: 100vh;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.alignment {
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.d-inline {
+    display: inline-block;
+    padding: 15px;
+    margin: 10px
+}
